@@ -1,0 +1,6 @@
+panel
+hvplot
+pandas
+ucimlrepo
+holoviews
+bokeh
